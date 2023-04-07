@@ -71,13 +71,258 @@
       ]
     },
     {
-      "id": 110,
+      "id": 180,
       "name": "Red Lipstick",
       "price": 300.99,
       "quantity": 1,
       "description": "Le 1er (1) sérum réparateur qui concentre la double puissance de la Rose de Granville de la tige à la fleur pour une réparation de la peau deux fois plus rapide (2) et une jeunesse visible.",
       "imageUrl": "https://images.unsplash.com/photo-1587303876752-91efb6315dcc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1935&q=80",
-      "category": "lips",
+      "category": "face",
+      "featured": true,
+      "reviews": [
+        {
+          "name": "saida",
+          "email": "saida@gmail.com",
+          "rating": 5,
+          "review": "this product is perfect"
+        },
+        {
+          "name": "halima",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "I like this product"
+        },
+        {
+          "name": "asbai",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "ddddd"
+        },
+        {
+          "name": "asbai",
+          "email": "halima1.asbai@ump.ac.ma",
+          "review": "fffffffffff"
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "name": "Red Lipstick",
+      "price": 300.99,
+      "quantity": 1,
+      "description": "Le 1er (1) sérum réparateur qui concentre la double puissance de la Rose de Granville de la tige à la fleur pour une réparation de la peau deux fois plus rapide (2) et une jeunesse visible.",
+      "imageUrl": "https://images.unsplash.com/photo-1587303876752-91efb6315dcc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1935&q=80",
+      "category": "face",
+      "featured": true,
+      "reviews": [
+        {
+          "name": "saida",
+          "email": "saida@gmail.com",
+          "rating": 5,
+          "review": "this product is perfect"
+        },
+        {
+          "name": "halima",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "I like this product"
+        },
+        {
+          "name": "asbai",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "ddddd"
+        },
+        {
+          "name": "asbai",
+          "email": "halima1.asbai@ump.ac.ma",
+          "review": "fffffffffff"
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "name": "Red Lipstick",
+      "price": 300.99,
+      "quantity": 1,
+      "description": "Le 1er (1) sérum réparateur qui concentre la double puissance de la Rose de Granville de la tige à la fleur pour une réparation de la peau deux fois plus rapide (2) et une jeunesse visible.",
+      "imageUrl": "https://images.unsplash.com/photo-1587303876752-91efb6315dcc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1935&q=80",
+      "category": "face",
+      "featured": true,
+      "reviews": [
+        {
+          "name": "saida",
+          "email": "saida@gmail.com",
+          "rating": 5,
+          "review": "this product is perfect"
+        },
+        {
+          "name": "halima",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "I like this product"
+        },
+        {
+          "name": "asbai",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "ddddd"
+        },
+        {
+          "name": "asbai",
+          "email": "halima1.asbai@ump.ac.ma",
+          "review": "fffffffffff"
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "name": "Red Lipstick",
+      "price": 300.99,
+      "quantity": 1,
+      "description": "Le 1er (1) sérum réparateur qui concentre la double puissance de la Rose de Granville de la tige à la fleur pour une réparation de la peau deux fois plus rapide (2) et une jeunesse visible.",
+      "imageUrl": "https://images.unsplash.com/photo-1587303876752-91efb6315dcc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1935&q=80",
+      "category": "face",
+      "featured": true,
+      "reviews": [
+        {
+          "name": "saida",
+          "email": "saida@gmail.com",
+          "rating": 5,
+          "review": "this product is perfect"
+        },
+        {
+          "name": "halima",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "I like this product"
+        },
+        {
+          "name": "asbai",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "ddddd"
+        },
+        {
+          "name": "asbai",
+          "email": "halima1.asbai@ump.ac.ma",
+          "review": "fffffffffff"
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "name": "Red Lipstick",
+      "price": 300.99,
+      "quantity": 1,
+      "description": "Le 1er (1) sérum réparateur qui concentre la double puissance de la Rose de Granville de la tige à la fleur pour une réparation de la peau deux fois plus rapide (2) et une jeunesse visible.",
+      "imageUrl": "https://images.unsplash.com/photo-1587303876752-91efb6315dcc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1935&q=80",
+      "category": "face",
+      "featured": true,
+      "reviews": [
+        {
+          "name": "saida",
+          "email": "saida@gmail.com",
+          "rating": 5,
+          "review": "this product is perfect"
+        },
+        {
+          "name": "halima",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "I like this product"
+        },
+        {
+          "name": "asbai",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "ddddd"
+        },
+        {
+          "name": "asbai",
+          "email": "halima1.asbai@ump.ac.ma",
+          "review": "fffffffffff"
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "name": "Red Lipstick",
+      "price": 300.99,
+      "quantity": 1,
+      "description": "Le 1er (1) sérum réparateur qui concentre la double puissance de la Rose de Granville de la tige à la fleur pour une réparation de la peau deux fois plus rapide (2) et une jeunesse visible.",
+      "imageUrl": "https://images.unsplash.com/photo-1587303876752-91efb6315dcc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1935&q=80",
+      "category": "face",
+      "featured": true,
+      "reviews": [
+        {
+          "name": "saida",
+          "email": "saida@gmail.com",
+          "rating": 5,
+          "review": "this product is perfect"
+        },
+        {
+          "name": "halima",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "I like this product"
+        },
+        {
+          "name": "asbai",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "ddddd"
+        },
+        {
+          "name": "asbai",
+          "email": "halima1.asbai@ump.ac.ma",
+          "review": "fffffffffff"
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "name": "Red Lipstick",
+      "price": 300.99,
+      "quantity": 1,
+      "description": "Le 1er (1) sérum réparateur qui concentre la double puissance de la Rose de Granville de la tige à la fleur pour une réparation de la peau deux fois plus rapide (2) et une jeunesse visible.",
+      "imageUrl": "https://images.unsplash.com/photo-1587303876752-91efb6315dcc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1935&q=80",
+      "category": "face",
+      "featured": true,
+      "reviews": [
+        {
+          "name": "saida",
+          "email": "saida@gmail.com",
+          "rating": 5,
+          "review": "this product is perfect"
+        },
+        {
+          "name": "halima",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "I like this product"
+        },
+        {
+          "name": "asbai",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "ddddd"
+        },
+        {
+          "name": "asbai",
+          "email": "halima1.asbai@ump.ac.ma",
+          "review": "fffffffffff"
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "name": "Red Lipstick",
+      "price": 300.99,
+      "quantity": 1,
+      "description": "Le 1er (1) sérum réparateur qui concentre la double puissance de la Rose de Granville de la tige à la fleur pour une réparation de la peau deux fois plus rapide (2) et une jeunesse visible.",
+      "imageUrl": "https://images.unsplash.com/photo-1587303876752-91efb6315dcc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1935&q=80",
+      "category": "face",
       "featured": true,
       "reviews": [
         {
@@ -252,7 +497,286 @@
       "quantity": 1,
       "description": "En 1947, Miss Dior est née de cet élan fou, de ce désir impérieux de réenchanter la vie des femmes, de leur redonner à voir les couleurs chatoyantes de l amour. À cette époque, après les temps sombres",
       "imageUrl": "https://images.unsplash.com/photo-1621151927841-ac2ee62f0333?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
-      "category": "brushes",
+      "category": "brushe",
+      "featured": true,
+      "reviews": [
+        {
+          "name": "saida",
+          "email": "saida@gmail.com",
+          "rating": 5,
+          "review": "this product is perfect"
+        },
+        {
+          "name": "halima",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "I like this product"
+        },
+        {
+          "name": "asbai",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "ddddd"
+        },
+        {
+          "name": "asbai",
+          "email": "halima1.asbai@ump.ac.ma",
+          "review": "fffffffffff"
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "name": "Eyeshadow Palette",
+      "price": 140.99,
+      "quantity": 1,
+      "description": "En 1947, Miss Dior est née de cet élan fou, de ce désir impérieux de réenchanter la vie des femmes, de leur redonner à voir les couleurs chatoyantes de l amour. À cette époque, après les temps sombres",
+      "imageUrl": "https://images.unsplash.com/photo-1621151927841-ac2ee62f0333?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+      "category": "eyes",
+      "featured": true,
+      "reviews": [
+        {
+          "name": "saida",
+          "email": "saida@gmail.com",
+          "rating": 5,
+          "review": "this product is perfect"
+        },
+        {
+          "name": "halima",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "I like this product"
+        },
+        {
+          "name": "asbai",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "ddddd"
+        },
+        {
+          "name": "asbai",
+          "email": "halima1.asbai@ump.ac.ma",
+          "review": "fffffffffff"
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "name": "Eyeshadow Palette",
+      "price": 140.99,
+      "quantity": 1,
+      "description": "En 1947, Miss Dior est née de cet élan fou, de ce désir impérieux de réenchanter la vie des femmes, de leur redonner à voir les couleurs chatoyantes de l amour. À cette époque, après les temps sombres",
+      "imageUrl": "https://images.unsplash.com/photo-1621151927841-ac2ee62f0333?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+      "category": "eyes",
+      "featured": true,
+      "reviews": [
+        {
+          "name": "saida",
+          "email": "saida@gmail.com",
+          "rating": 5,
+          "review": "this product is perfect"
+        },
+        {
+          "name": "halima",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "I like this product"
+        },
+        {
+          "name": "asbai",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "ddddd"
+        },
+        {
+          "name": "asbai",
+          "email": "halima1.asbai@ump.ac.ma",
+          "review": "fffffffffff"
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "name": "Eyeshadow Palette",
+      "price": 140.99,
+      "quantity": 1,
+      "description": "En 1947, Miss Dior est née de cet élan fou, de ce désir impérieux de réenchanter la vie des femmes, de leur redonner à voir les couleurs chatoyantes de l amour. À cette époque, après les temps sombres",
+      "imageUrl": "https://images.unsplash.com/photo-1621151927841-ac2ee62f0333?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+      "category": "eyes",
+      "featured": true,
+      "reviews": [
+        {
+          "name": "saida",
+          "email": "saida@gmail.com",
+          "rating": 5,
+          "review": "this product is perfect"
+        },
+        {
+          "name": "halima",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "I like this product"
+        },
+        {
+          "name": "asbai",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "ddddd"
+        },
+        {
+          "name": "asbai",
+          "email": "halima1.asbai@ump.ac.ma",
+          "review": "fffffffffff"
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "name": "Eyeshadow Palette",
+      "price": 140.99,
+      "quantity": 1,
+      "description": "En 1947, Miss Dior est née de cet élan fou, de ce désir impérieux de réenchanter la vie des femmes, de leur redonner à voir les couleurs chatoyantes de l amour. À cette époque, après les temps sombres",
+      "imageUrl": "https://images.unsplash.com/photo-1621151927841-ac2ee62f0333?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+      "category": "eyes",
+      "featured": true,
+      "reviews": [
+        {
+          "name": "saida",
+          "email": "saida@gmail.com",
+          "rating": 5,
+          "review": "this product is perfect"
+        },
+        {
+          "name": "halima",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "I like this product"
+        },
+        {
+          "name": "asbai",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "ddddd"
+        },
+        {
+          "name": "asbai",
+          "email": "halima1.asbai@ump.ac.ma",
+          "review": "fffffffffff"
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "name": "Eyeshadow Palette",
+      "price": 140.99,
+      "quantity": 1,
+      "description": "En 1947, Miss Dior est née de cet élan fou, de ce désir impérieux de réenchanter la vie des femmes, de leur redonner à voir les couleurs chatoyantes de l amour. À cette époque, après les temps sombres",
+      "imageUrl": "https://images.unsplash.com/photo-1621151927841-ac2ee62f0333?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+      "category": "brushe",
+      "featured": true,
+      "reviews": [
+        {
+          "name": "saida",
+          "email": "saida@gmail.com",
+          "rating": 5,
+          "review": "this product is perfect"
+        },
+        {
+          "name": "halima",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "I like this product"
+        },
+        {
+          "name": "asbai",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "ddddd"
+        },
+        {
+          "name": "asbai",
+          "email": "halima1.asbai@ump.ac.ma",
+          "review": "fffffffffff"
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "name": "Eyeshadow Palette",
+      "price": 140.99,
+      "quantity": 1,
+      "description": "En 1947, Miss Dior est née de cet élan fou, de ce désir impérieux de réenchanter la vie des femmes, de leur redonner à voir les couleurs chatoyantes de l amour. À cette époque, après les temps sombres",
+      "imageUrl": "https://images.unsplash.com/photo-1621151927841-ac2ee62f0333?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+      "category": "brushe",
+      "featured": true,
+      "reviews": [
+        {
+          "name": "saida",
+          "email": "saida@gmail.com",
+          "rating": 5,
+          "review": "this product is perfect"
+        },
+        {
+          "name": "halima",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "I like this product"
+        },
+        {
+          "name": "asbai",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "ddddd"
+        },
+        {
+          "name": "asbai",
+          "email": "halima1.asbai@ump.ac.ma",
+          "review": "fffffffffff"
+        }
+      ]
+    }, {
+      "id": 167,
+      "name": "Eyeshadow Palette",
+      "price": 140.99,
+      "quantity": 1,
+      "description": "En 1947, Miss Dior est née de cet élan fou, de ce désir impérieux de réenchanter la vie des femmes, de leur redonner à voir les couleurs chatoyantes de l amour. À cette époque, après les temps sombres",
+      "imageUrl": "https://images.unsplash.com/photo-1621151927841-ac2ee62f0333?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+      "category": "brushe",
+      "featured": true,
+      "reviews": [
+        {
+          "name": "saida",
+          "email": "saida@gmail.com",
+          "rating": 5,
+          "review": "this product is perfect"
+        },
+        {
+          "name": "halima",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "I like this product"
+        },
+        {
+          "name": "asbai",
+          "email": "asbaihalima35@gmail.com",
+          "rating": 5,
+          "review": "ddddd"
+        },
+        {
+          "name": "asbai",
+          "email": "halima1.asbai@ump.ac.ma",
+          "review": "fffffffffff"
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "name": "Eyeshadow Palette",
+      "price": 140.99,
+      "quantity": 1,
+      "description": "En 1947, Miss Dior est née de cet élan fou, de ce désir impérieux de réenchanter la vie des femmes, de leur redonner à voir les couleurs chatoyantes de l amour. À cette époque, après les temps sombres",
+      "imageUrl": "https://images.unsplash.com/photo-1621151927841-ac2ee62f0333?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+      "category": "brushe",
       "featured": true,
       "reviews": [
         {
@@ -287,7 +811,7 @@
       "quantity": 1,
       "description": "En 1947, Miss Dior est née de cet élan fou, de ce désir impérieux de réenchanter la vie des femmes, de leur redonner à voir les couleurs chatoyantes de l amour. À cette époque, après les temps sombres",
       "imageUrl": "https://images.unsplash.com/photo-1650664370914-f026578ec2a4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=769&q=80",
-      "category": "body",
+      "category": "eyes",
       "featured": true,
       "reviews": [
         {
@@ -515,7 +1039,7 @@
           "quantity": 1,
           "description": "Énergique et élégante, la nouvelle eau de toilette Dior Homme Sport allie sa vivacité fraîche à un charme teinté de sensualité, un duo qui vous saisit comme l'uppercut d'un boxeur.",
           "imageUrl": "https://images.unsplash.com/photo-1617220376311-1b90accbb9e8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-          "category": "travel",
+          "category": "bruche",
           "featured": false
         }
       ]
